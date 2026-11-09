@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "megaman-ppo-ga: PPO, Deep GA and open-loop GA on Mega Man (NES) boss fights"
+type: software
+authors:
+  - family-names: "Paludeto"
+    given-names: "Gabriel"
+    affiliation: "UTFPR - Universidade Tecnológica Federal do Paraná"
+  - family-names: "Romanetto Dos Santos"
+    given-names: "Julia"
+    affiliation: "UTFPR - Universidade Tecnológica Federal do Paraná"
+  - family-names: "Mantovani"
+    given-names: "Rafael Gomes"
+    affiliation: "UTFPR - Universidade Tecnológica Federal do Paraná"
+license: MIT
+references:
+  - type: software
+    title: "Stable-Retro"
+    authors:
+      - name: "Farama Foundation"
+    repository-code: "https://github.com/Farama-Foundation/stable-retro"
+  - type: article
+    title: "Stable-Baselines3: Reliable Reinforcement Learning Implementations"
+    authors:
+      - family-names: "Raffin"
+        given-names: "Antonin"
+      - family-names: "Hill"
+        given-names: "Ashley"
+      - family-names: "Gleave"
+        given-names: "Adam"
+      - family-names: "Kanervisto"
+        given-names: "Anssi"
+      - family-names: "Ernestus"
+        given-names: "Maximilian"
+      - family-names: "Dormann"
+        given-names: "Noah"
+    journal: "Journal of Machine Learning Research"
+    volume: 22
+    issue: 268
+    start: 1
+    end: 8
+    year: 2021

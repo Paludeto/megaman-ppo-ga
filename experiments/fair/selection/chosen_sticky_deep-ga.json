@@ -1,0 +1,86 @@
+{
+ "by_boss": {
+  "bombman": {
+   "K": 4,
+   "args": {
+    "elite": 1,
+    "parents": 10,
+    "pop": 96,
+    "sigma": 0.005
+   },
+   "config_id": "s005_p96_K4"
+  },
+  "cutman": {
+   "K": 1,
+   "args": {
+    "elite": 1,
+    "parents": 10,
+    "pop": 96,
+    "sigma": 0.005
+   },
+   "config_id": "s005_p96_K1"
+  },
+  "elecman": {
+   "K": 1,
+   "args": {
+    "elite": 1,
+    "parents": 10,
+    "pop": 96,
+    "sigma": 0.005
+   },
+   "config_id": "s005_p96_K1"
+  },
+  "fireman": {
+   "K": 4,
+   "args": {
+    "elite": 1,
+    "parents": 10,
+    "pop": 96,
+    "sigma": 0.005
+   },
+   "config_id": "s005_p96_K4"
+  },
+  "gutsman": {
+   "K": 1,
+   "args": {
+    "elite": 1,
+    "parents": 10,
+    "pop": 96,
+    "sigma": 0.005
+   },
+   "config_id": "s005_p96_K1"
+  },
+  "iceman": {
+   "K": 4,
+   "args": {
+    "elite": 1,
+    "parents": 10,
+    "pop": 96,
+    "sigma": 0.005
+   },
+   "config_id": "s005_p96_K4"
+  }
+ },
+ "selected_on": {
+  "A": {
+   "K": 4,
+   "args": {
+    "elite": 1,
+    "parents": 10,
+    "pop": 96,
+    "sigma": 0.005
+   },
+   "config_id": "s005_p96_K4"
+  },
+  "B": {
+   "K": 1,
+   "args": {
+    "elite": 1,
+    "parents": 10,
+    "pop": 96,
+    "sigma": 0.005
+   },
+   "config_id": "s005_p96_K1"
+  }
+ }
+}

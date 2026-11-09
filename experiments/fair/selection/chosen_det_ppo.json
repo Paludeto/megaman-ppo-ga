@@ -1,0 +1,62 @@
+{
+ "by_boss": {
+  "bombman": {
+   "args": {
+    "ent_coef": 0.01,
+    "lr": 0.00025
+   },
+   "config_id": "lr25_e10"
+  },
+  "cutman": {
+   "args": {
+    "ent_coef": 0.005,
+    "lr": 0.0001
+   },
+   "config_id": "lr10_e5"
+  },
+  "elecman": {
+   "args": {
+    "ent_coef": 0.005,
+    "lr": 0.0001
+   },
+   "config_id": "lr10_e5"
+  },
+  "fireman": {
+   "args": {
+    "ent_coef": 0.01,
+    "lr": 0.00025
+   },
+   "config_id": "lr25_e10"
+  },
+  "gutsman": {
+   "args": {
+    "ent_coef": 0.005,
+    "lr": 0.0001
+   },
+   "config_id": "lr10_e5"
+  },
+  "iceman": {
+   "args": {
+    "ent_coef": 0.01,
+    "lr": 0.00025
+   },
+   "config_id": "lr25_e10"
+  }
+ },
+ "selected_on": {
+  "A": {
+   "args": {
+    "ent_coef": 0.01,
+    "lr": 0.00025
+   },
+   "config_id": "lr25_e10"
+  },
+  "B": {
+   "args": {
+    "ent_coef": 0.005,
+    "lr": 0.0001
+   },
+   "config_id": "lr10_e5"
+  }
+ }
+}

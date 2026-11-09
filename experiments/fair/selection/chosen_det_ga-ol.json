@@ -1,0 +1,94 @@
+{
+ "by_boss": {
+  "bombman": {
+   "args": {
+    "elite": 6,
+    "k": 4,
+    "p_cross": 0.5,
+    "p_mut": 0.02,
+    "pop": 240,
+    "trunc": 0.2
+   },
+   "config_id": "m020"
+  },
+  "cutman": {
+   "args": {
+    "elite": 6,
+    "k": 4,
+    "p_cross": 0.5,
+    "p_mut": 0.02,
+    "pop": 240,
+    "trunc": 0.2
+   },
+   "config_id": "m020"
+  },
+  "elecman": {
+   "args": {
+    "elite": 6,
+    "k": 4,
+    "p_cross": 0.5,
+    "p_mut": 0.02,
+    "pop": 240,
+    "trunc": 0.2
+   },
+   "config_id": "m020"
+  },
+  "fireman": {
+   "args": {
+    "elite": 6,
+    "k": 4,
+    "p_cross": 0.5,
+    "p_mut": 0.02,
+    "pop": 240,
+    "trunc": 0.2
+   },
+   "config_id": "m020"
+  },
+  "gutsman": {
+   "args": {
+    "elite": 6,
+    "k": 4,
+    "p_cross": 0.5,
+    "p_mut": 0.02,
+    "pop": 240,
+    "trunc": 0.2
+   },
+   "config_id": "m020"
+  },
+  "iceman": {
+   "args": {
+    "elite": 6,
+    "k": 4,
+    "p_cross": 0.5,
+    "p_mut": 0.02,
+    "pop": 240,
+    "trunc": 0.2
+   },
+   "config_id": "m020"
+  }
+ },
+ "selected_on": {
+  "A": {
+   "args": {
+    "elite": 6,
+    "k": 4,
+    "p_cross": 0.5,
+    "p_mut": 0.02,
+    "pop": 240,
+    "trunc": 0.2
+   },
+   "config_id": "m020"
+  },
+  "B": {
+   "args": {
+    "elite": 6,
+    "k": 4,
+    "p_cross": 0.5,
+    "p_mut": 0.02,
+    "pop": 240,
+    "trunc": 0.2
+   },
+   "config_id": "m020"
+  }
+ }
+}

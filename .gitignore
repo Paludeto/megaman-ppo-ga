@@ -1,0 +1,22 @@
+# ROM: never redistribute; every user supplies their own
+*.nes
+
+# Training and evaluation outputs
+logs/
+checkpoints/
+models/
+out/
+campaign/
+*.zip
+*.bk2
+*.mp4
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Misc
+.DS_Store
+.ipynb_checkpoints/
