@@ -112,6 +112,7 @@ robustness; measure that here.
 ## Documentation
 
 - [docs/EXPERIMENTS.md](docs/EXPERIMENTS.md): protocol and reproduction of the campaign.
+- [RESULTS.md](RESULTS.md): results of the original campaign, as reported in the paper.
 - [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md): how the environment, PPO and GAs are built.
 - [baselines/ga/README.md](baselines/ga/README.md): the genetic algorithms.
 

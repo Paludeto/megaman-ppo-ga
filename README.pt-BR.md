@@ -113,6 +113,7 @@ validação nada diz sobre robustez; meça isso aqui.
 ## Documentação
 
 - [docs/EXPERIMENTS.pt-BR.md](docs/EXPERIMENTS.pt-BR.md): protocolo e reprodução da campanha.
+- [RESULTS.md](RESULTS.md): resultados da campanha original, os mesmos do artigo (em inglês).
 - [docs/ARCHITECTURE.pt-BR.md](docs/ARCHITECTURE.pt-BR.md): como o ambiente, o PPO e os GAs são construídos.
 - [baselines/ga/README.pt-BR.md](baselines/ga/README.pt-BR.md): os algoritmos genéticos.
 
